@@ -10,7 +10,7 @@ It allows users to signup, login, manage books, and see their user identity on a
 ---
 
 ## Features
-- User signup and login
+- Librarian signup and login
 - Password hashing & verification
 - Session-based access control
 - CRUD operations: Create, Read, Update, Delete
